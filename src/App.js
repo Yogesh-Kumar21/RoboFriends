@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { robots } from './Robots';
 import CardList from "./CardList";
 import Searchbox from './Searchbox';
 import './App.css';
